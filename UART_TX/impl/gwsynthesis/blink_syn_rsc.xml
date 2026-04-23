@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="uart_loopback" Register="8" Lut="7" T_Register="51(8)" T_Lut="84(7)">
+ <SubModule name="u_tx" Register="16" Lut="29" T_Register="16(16)" T_Lut="29(29)"/>
+ <SubModule name="u_rx" Register="27" Lut="48" T_Register="27(27)" T_Lut="48(48)"/>
+</Module>
