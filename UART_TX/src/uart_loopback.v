@@ -41,7 +41,8 @@ module uart_loopback (
         start     <= 1'b0;
 
         // when RX gets a valid byte, show it on LEDs
-        if (rx_valid)
+        if (rx_valid && !prev_rx_valid)
+            led_reg <= rx_data[5:0];
             led_reg <= rx_data[5:0];
 
         // send 0x55 repeatedly

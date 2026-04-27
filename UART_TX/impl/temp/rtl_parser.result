@@ -1,25 +1,25 @@
 [
  {
-  "InstFile" : "C:/PersonalProjects/FPGALearning/GowinEDA/blink/src/uart_loopback.v",
+  "InstFile" : "C:/Projects/PersonalProjects/FPGALearning/Network-Classifier/UART_TX/src/uart_loopback.v",
   "InstLine" : 1,
   "InstName" : "uart_loopback",
-  "ModuleFile" : "C:/PersonalProjects/FPGALearning/GowinEDA/blink/src/uart_loopback.v",
+  "ModuleFile" : "C:/Projects/PersonalProjects/FPGALearning/Network-Classifier/UART_TX/src/uart_loopback.v",
   "ModuleLine" : 1,
   "ModuleName" : "uart_loopback",
   "SubInsts" : [
    {
-    "InstFile" : "C:/PersonalProjects/FPGALearning/GowinEDA/blink/src/uart_loopback.v",
+    "InstFile" : "C:/Projects/PersonalProjects/FPGALearning/Network-Classifier/UART_TX/src/uart_loopback.v",
     "InstLine" : 20,
     "InstName" : "u_tx",
-    "ModuleFile" : "C:/PersonalProjects/FPGALearning/GowinEDA/blink/src/uart.v",
+    "ModuleFile" : "C:/Projects/PersonalProjects/FPGALearning/Network-Classifier/UART_TX/src/uart.v",
     "ModuleLine" : 1,
     "ModuleName" : "uart_tx"
    },
    {
-    "InstFile" : "C:/PersonalProjects/FPGALearning/GowinEDA/blink/src/uart_loopback.v",
+    "InstFile" : "C:/Projects/PersonalProjects/FPGALearning/Network-Classifier/UART_TX/src/uart_loopback.v",
     "InstLine" : 28,
     "InstName" : "u_rx",
-    "ModuleFile" : "C:/PersonalProjects/FPGALearning/GowinEDA/blink/src/uart.v",
+    "ModuleFile" : "C:/Projects/PersonalProjects/FPGALearning/Network-Classifier/UART_TX/src/uart.v",
     "ModuleLine" : 82,
     "ModuleName" : "uart_rx"
    }
